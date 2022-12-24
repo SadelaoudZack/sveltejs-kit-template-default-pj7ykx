@@ -7,10 +7,12 @@
 	<h1>This is Zack's about Sveltekit</h1>
 
 	<p>
-		This is a <a href="https://kit.svelte.dev">SvelteKit</a> app. You can make your own by typing the
-		following into your command line and following the prompts:
+		This is a <a href="https://kit.svelte.dev">SvelteKit</a> app.
+		:
+		It has been made possible by Zack's app : Sveltekit_tutorial. 
 	</p>
 
+ <b>THIS IS HOW YOU BUILD THIS APP</b>
 	<pre>npm create svelte@latest</pre>
 
 	<p>
