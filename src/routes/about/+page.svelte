@@ -4,7 +4,7 @@
 </svelte:head>
 
 <div class="text-column">
-	<h1 id ='h1_h1'>This is a header one with id h1_h1</h1>
+	<h1 id ='h1_h1'>This is a header one with id h1_h1 it repeats once</h1>
 
 	<p>
 		This is a <a href="https://kit.svelte.dev">SvelteKit</a> app.
