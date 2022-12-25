@@ -5,26 +5,14 @@
 
 <div class="app">
 	<Header />
-		<Header />
-
-	<Header />
-
-	<Header />
-
-	<Header />
-
-	<Header />
 
 
-	<div id="h1_h1"></div>
-	<div id="h1_h1"></div>
+
 	<div id="h1_h1"></div>
 
 	<main>
 		<slot />
-		#h1_h1
-		Header
-		<p>the above element is a counter </p>
+=		<p>the above element is a counter </p>
 	</main>
 
 	<footer>
